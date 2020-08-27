@@ -14,6 +14,9 @@ cv2.contourArea(contour)
 ### Step-2
 1. Calibrate the readings of area with those of manually measured distance.
 2. Use these readings to plot a graph.
+
+<img src="https://github.com/Maharshpatel1709/Distance-Calculator/blob/master/Chart_img.PNG" width="480">
+
 3. Find the equation of the trendline in excel which fits best with the data.
 4. Now finally, use the equation of trendline to calculate the distance.
 ```python
